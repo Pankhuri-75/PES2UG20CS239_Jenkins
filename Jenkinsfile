@@ -18,7 +18,6 @@ pipeline {
             echo 'Pipeline completed'
         }
         failure {
-            echo 'Pipeline failed'
-        }
+            echo 'Pipeline failed'}
     }
 }
