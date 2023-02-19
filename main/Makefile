@@ -1,2 +1,2 @@
-hello_exec: sample.cpp
+sample_exec: sample.cpp
 	g++ sample.cpp -o sample_exec
