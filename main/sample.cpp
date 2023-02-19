@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(void) {
-  cout << "Try file\n";
+  cout << "This is a sample file\n";
   return 0;
 }
